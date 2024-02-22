@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+requests==2.26.0
+python-dotenv==0.19.1
+fake-useragent==0.1.11
